@@ -1,0 +1,8 @@
+1.- git add sistema_operativo.txt
+2.- git branch y mostró *master
+3.- se comprueba con git branch y mostrará
+master
+*windows8
+4.-
+5.- git add respuestas.txt
+git commit -m "respuestas del stage al repo"
