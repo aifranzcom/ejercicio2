@@ -1,0 +1,8 @@
+Titulo:		WINDOWS 7
+Fecha lanzamiento: 22 de octubre de 2009
+Idiomas: Multilenguaje
+Plataformas: x86 y x64
+Predecesor: Windows Vista
+
+La barra de tareas fue rediseñada, es mas ancha, y los botones de 
+las ventanas ya traen texto, sino unicamente el icono de la aplicación.
